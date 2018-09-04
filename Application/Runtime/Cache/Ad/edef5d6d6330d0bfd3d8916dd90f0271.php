@@ -1,0 +1,1 @@
+<?php if (!defined('THINK_PATH')) exit();?>这是Ad模块Index控制器的main方法
